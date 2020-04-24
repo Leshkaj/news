@@ -1,2 +1,1 @@
-# news
-htmlacademy task
+# culture-news
